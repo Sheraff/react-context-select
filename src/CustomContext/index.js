@@ -1,4 +1,5 @@
 /* eslint-disable react-hooks/rules-of-hooks -- i know what i'm doing */
+/* eslint-disable react-hooks/exhaustive-deps -- i know what i'm doing */
 
 import {
   createContext as reactCreateContext,
