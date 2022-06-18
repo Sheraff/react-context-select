@@ -1,5 +1,5 @@
 import { memo, useState, createContext as reactCreateContext } from 'react'
-import { createContext, useContext } from './CustomContext'
+import { createContext, useContext } from './CustomContext/index.js'
 import './styles.css'
 
 const Context = createContext({ a: 0 })
